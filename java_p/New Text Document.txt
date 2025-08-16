@@ -1,0 +1,20 @@
+1. Factorial
+2. Fibonacci
+3. Prime nos
+4. Palindrome
+-----------------1
+5. Type casting
+6. Find absolute value
+7. Max of 2nos 
+8. Swap contents without using third variable
+9. check even or odd using bitwise operator
+10. demonstrate short circuit operators
+11. demonstrate string operator
+-------------------2
+12. sum of digits
+13. print the nth in fibonacci series using recursion
+14. roots of quadratic equation
+15. transpose of matrix
+--------------------3
+16.
+17.
